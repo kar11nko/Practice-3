@@ -15,7 +15,6 @@ This is a solution to the [Ping coming soon page challenge on Frontend Mentor](h
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,7 +26,6 @@ Do the task using css animation. Change the design as you want. Add features and
 This is a screenshot of our solution.
 
 ![Alt-screen1](wave1.png)
-
 
 ### Built with
 
@@ -55,12 +53,12 @@ Snippets:
   animation-duration: 1s;
   animation-iteration-count: infinite;
 }
-
+```
 ### Useful resources
 
 - [SVG](http://www.w3.org/2000/svg)
 
 ## Author
 - Karina Kaukenova: [@kar11nko](https://github.com/kar11nko)
-- Amenov Yernar  [@madhoma01](https://github.com/madnomad01)
+- Amenov Yernar:  [@madhoma01](https://github.com/madnomad01)
 
